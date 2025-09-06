@@ -1,62 +1,70 @@
-# Muhammed Favas T P  
+# Hello, I'm Muhammed Favas T P
 
-**Full-Stack Developer & Project Coordinator (CSE’25)**  
-Kerala, India  
+**Full-Stack Developer & Project Coordinator (CSE’25)** — Kerala, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square)](https://favasmuhammed.github.io/portfolio)  
+I build scalable SaaS, EdTech, and cloud solutions using **React.js**, **Django REST**, and **PostgreSQL**. I bring software, system-level understanding, and team leadership together to deliver real-world impact.
+
+---
+
+##  Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-view-blue?style=flat-square)](https://favasmuhammed.github.io/portfolio)  
 [![GitHub](https://img.shields.io/badge/GitHub-favasMuhammed-black?style=flat-square&logo=github)](https://github.com/favasMuhammed)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammed-favas-t-p)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:favastp2@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammed-favas-t-p)  
+[![Email](https://img.shields.io/badge/Email-contact-red?style=flat-square&logo=gmail)](mailto:favastp2@gmail.com)
 
 ---
 
-## About Me  
-I am a **Full-Stack Developer and Project Coordinator** with 2+ years of experience building scalable web applications and SaaS platforms.  
-Skilled in **React.js, Django REST, and PostgreSQL**, with a focus on **SaaS, EdTech, and cloud-based solutions**.  
-I combine strong technical expertise with leadership experience to deliver impactful projects.  
+##  Technologies & Tools
+
+<div>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</div>
 
 ---
 
-## Tech Stack  
+##  GitHub Stats  
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
-
-**Backend**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)  
-
-**Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database)  
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Agile](https://img.shields.io/badge/Agile-Project_Management-lightgrey?style=flat-square)  
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-green?style=flat-square)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=favasMuhammed&show_icons=true&theme=radical)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=favasMuhammed&layout=compact&theme=radical)
 
 ---
 
-## Projects  
-- [Portfolio Website](https://favasmuhammed.github.io/portfolio) – Personal portfolio showcasing projects and skills  
-- [Speech Emotion Recognition 2025](https://github.com/favasMuhammed/SpeechEmotionRecognition2025) – ML project in Python  
-- [DECOM](https://github.com/favasMuhammed/DECOM) – Django + Tailwind CSS e-commerce platform  
-- EduManage – SaaS-based education management platform (TypeScript, React, Django)  
+##  Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Portfolio Website** | A polished showcase of my work and skills. | React, Tailwind, Netlify |
+| **EduManage** | SaaS-based Education Management Platform. | TypeScript, React, Django |
+| **DECOM** | Django-based e-commerce platform. | Django, Tailwind, JS |
+| **Speech Emotion Recognition 2025** | ML app for real-time emotion detection from speech. | Python, ML libraries |
+
+*(Pinned repositories feature makes projects easily accessible — choose your top 4–6 to pin.)* :contentReference[oaicite:0]{index=0}
 
 ---
 
-## Leadership & Achievements  
-- **CSE Association Secretary (2024–25)** – Led 200+ members, organized AI Expo & Code Fest (300+ participants)  
-- **IEDC Executive Member** – Promoted innovation & entrepreneurship, supported 5+ startup ideas  
-- GitHub Achievements: Pull Shark • YOLO  
+##  Experience & Leadership
+
+- **CSE Association Secretary (2024–25)** — Led 200+ students, organized AI Expo & Code Fest for 300+ participants.  
+- **IEDC Executive Member** — Fostered innovation and contributed to 5+ startup initiatives.  
+- **Freelance Graphic Designer** — Delivered 50+ branding projects with 95% client satisfaction.
 
 ---
 
-*“Building scalable apps, coordinating teams, and shaping solutions at the intersection of software and impact.”*  
+##  Accessibility & Best Practices
+
+- Used **clear headers**, **descriptive link text**, and **badge alt descriptions** for screen reader support. :contentReference[oaicite:1]{index=1}  
+- Structured, scannable layout using Markdown sections—improves readability for everyone. :contentReference[oaicite:2]{index=2}  
+- Avoided nonconforming emoji use; kept language plain and professional.
+
+---
+
+> “I build scalable applications, coordinate diverse teams, and explore the intersection of software, systems, and real-world impact.”
+
+---
