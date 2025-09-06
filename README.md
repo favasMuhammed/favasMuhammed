@@ -4,15 +4,16 @@
 Kerala, India  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square)](https://favasmuhammed.github.io/portfolio)  
-[![GitHub](https://img.shields.io/badge/GitHub-favasMuhammed-black?style=flat-square&logo=github)](https://github.com/muhammed-favas-t-p)  
+[![GitHub](https://img.shields.io/badge/GitHub-favasMuhammed-black?style=flat-square&logo=github)](https://github.com/favasMuhammed)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammed-favas-t-p)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:favastp2@gmail.com)  
 
 ---
 
 ## About Me  
-Full-stack developer with 2+ years of experience building **SaaS, EdTech, and cloud-based solutions** using **React.js, Django REST, and PostgreSQL**.  
-I specialize in **scalable applications, project coordination, and agile teamwork**.  
+I am a **Full-Stack Developer and Project Coordinator** with 2+ years of experience building scalable web applications and SaaS platforms.  
+Skilled in **React.js, Django REST, and PostgreSQL**, with a focus on **SaaS, EdTech, and cloud-based solutions**.  
+I combine strong technical expertise with leadership experience to deliver impactful projects.  
 
 ---
 
@@ -44,15 +45,15 @@ I specialize in **scalable applications, project coordination, and agile teamwor
 ---
 
 ## Projects  
-- [Portfolio Website](https://favasmuhammed.github.io/portfolio) – Personal portfolio showcasing work  
-- [Speech Emotion Recognition 2025](https://github.com/muhammed-favas-t-p/SpeechEmotionRecognition2025) – ML project in Python  
-- [DECOM](https://github.com/muhammed-favas-t-p/DECOM) – Django + Tailwind CSS e-commerce platform  
+- [Portfolio Website](https://favasmuhammed.github.io/portfolio) – Personal portfolio showcasing projects and skills  
+- [Speech Emotion Recognition 2025](https://github.com/favasMuhammed/SpeechEmotionRecognition2025) – ML project in Python  
+- [DECOM](https://github.com/favasMuhammed/DECOM) – Django + Tailwind CSS e-commerce platform  
 - EduManage – SaaS-based education management platform (TypeScript, React, Django)  
 
 ---
 
 ## Leadership & Achievements  
-- **CSE Association Secretary (2024–25)** – Led 200+ members, organized AI Expo & Code Fest with 300+ participants  
+- **CSE Association Secretary (2024–25)** – Led 200+ members, organized AI Expo & Code Fest (300+ participants)  
 - **IEDC Executive Member** – Promoted innovation & entrepreneurship, supported 5+ startup ideas  
 - GitHub Achievements: Pull Shark • YOLO  
 
