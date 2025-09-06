@@ -53,16 +53,24 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Analytics
+## 💼 Professional Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=favasMuhammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favasMuhammed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=portfolio,favas" alt="Top Languages" height="165">
+  
+| 🚀 Projects Delivered | ⚡ Performance Gains | 👥 Team Leadership | 🎯 Client Satisfaction |
+|:---------------------:|:-------------------:|:------------------:|:----------------------:|
+| **10+ Web Apps** | **40% Faster** | **5+ Developers** | **95% Rating** |
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=favasMuhammed&theme=tokyonight" alt="GitHub Profile Summary" />
-</div>
+### 🎯 **Current Focus Areas**
+```
+🔹 Advanced React.js & TypeScript Development
+🔹 Django REST Framework & API Design  
+🔹 AI/ML Integration in Web Applications
+🔹 Project Management & Agile Leadership
+🔹 Educational Technology Solutions
+```
 
 ## 🚀 Featured Projects
 
