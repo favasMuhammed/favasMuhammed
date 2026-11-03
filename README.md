@@ -1,19 +1,16 @@
 # Hi there, I'm Muhammed Favas T P
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Project+Coordinator;Full-Stack+Developer;AI%2FML+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
-</div>
-
 ## About Me
 
 > **Transforming complex challenges into elegant digital solutions through innovative engineering and strategic project leadership.**
 
-- Currently working as **Project Coordinator** at Tegrand Infotech
+- Currently working as **Backend Developer** at SureFlow R&D
+- Research lab: [Open Horizon Research Foundry](https://github.com/heyfavas-cell)
 - Exploring advanced **AI/ML** and **Cloud Technologies**
 - Leading teams and coordinating cross-functional projects
 - Building scalable web applications with **React.js** and **Django**
-- **2+ years** of professional development experience
-- Based in **Manjeri, Kerala, India**
+- **3+ years** of professional development experience
+- Based in **Sharjah, UAE**
 - Fun fact: I've organized tech events for **300+ participants**
 
 ## Tech Stack & Skills
@@ -53,17 +50,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Professional Highlights
-
-<div align="center">
-  
-| Projects Delivered | Performance Gains | Team Leadership | Client Satisfaction |
-|:-------------------:|:----------------:|:---------------:|:------------------:|
-| **10+ Web Apps** | **40% Faster** | **5+ Developers** | **95% Rating** |
-
-</div>
-
-### Current Focus Areas
+## Current Focus Areas
 ```
 • Advanced React.js & TypeScript Development
 • Django REST Framework & API Design  
@@ -74,51 +61,28 @@
 
 ## Featured Projects
 
-### TeacherSync Platform
-**Educational Management Revolution**
-- **Tech Stack**: React.js, TypeScript, Django REST Framework
-- **Features**: Real-time collaboration, AI-powered grading, intelligent analytics
-- **Impact**: Streamlined teacher-student interactions
+### [Alucidate](https://github.com/favasMuhammed/Alucidate-v2)
+AI study tutor that turns textbook PDFs into summaries and mind maps, and answers only from the source pages.
 
-### EduManage System
-**Intelligent School Administration**
-- **Tech Stack**: React.js, Django, PostgreSQL
-- **Features**: Student portal, course management, comprehensive reporting
-- **Impact**: Enhanced educational administration efficiency
+### [Everly Modish ERP](https://github.com/favasMuhammed/Everly-Modish)
+Serverless ERP single-page app using Google Sheets and Apps Script as its backend, with point of sale, inventory and a financial dashboard.
 
-### AI Speech Emotion Recognition
-**Advanced ML Solution**
-- **Tech Stack**: Python, TensorFlow, OpenCV, Machine Learning
-- **Features**: Real-time emotion analysis, ML model integration, API development
-- **Impact**: Breakthrough in emotional AI applications
+### [Restaurant Reservation System](https://github.com/favasMuhammed/restaurant-reservation-system)
+Table-based restaurant reservation plugin for WordPress, with OTP-verified bookings, Stripe payments and a staff dashboard.
 
-### Gourmet Delight Restaurant
-**Modern Restaurant Experience**
-- **Tech Stack**: React.js, Tailwind CSS, JavaScript
-- **Features**: Interactive menu, reservation system, staff dashboard
-- **Impact**: Enhanced customer dining experience
+### [Kohinoor Caterer](https://github.com/favasMuhammed/kohinoor-sc)
+Static website for Kohinoor Caterer, an Asian caterer for weddings and events in Leicester and the Midlands.
 
-### E-commerce Solution
-**Complete Shopping Platform**
-- **Tech Stack**: Django, JavaScript, PostgreSQL
-- **Features**: Product management, payment integration, order tracking
-- **Impact**: Full-featured online marketplace
+### [Carbon](https://github.com/favasMuhammed/carbon)
+Code snippet sharing app built with Next.js, React and TypeScript.
 
-[View All Projects](https://favasmuhammed.github.io/portfolio)
-
-## Professional Achievements
-
-- **25% productivity improvement** in team management
-- **40% faster load times** through optimization techniques
-- Led teams of **5+ developers** in agile environments
-- **95% client satisfaction rate** in freelance projects
-- Organized events with **300+ participants**
-- Developed **10+ responsive web applications**
+[View All Projects](https://favas.dev)
 
 ## Leadership & Community
 
 ### Professional Leadership
-- **Project Coordinator** at Tegrand Infotech (Current)
+- **Backend Developer** at SureFlow R&D (Current)
+- **Full-Stack Engineer & Technical Lead** at Tegrand Infotech (2023 to 2025)
 - **CSE Association Secretary** - Leading 200+ student members
 - **IEDC Executive Member** - Innovation & Entrepreneurship Development
 
@@ -148,8 +112,7 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://favas.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-favas-t-p)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favastp2@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917510206913)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getinfavas@gmail.com)
 
 </div>
 
