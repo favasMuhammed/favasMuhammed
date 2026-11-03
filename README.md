@@ -73,9 +73,6 @@ Table-based restaurant reservation plugin for WordPress, with OTP-verified booki
 ### [Kohinoor Caterer](https://github.com/favasMuhammed/kohinoor-sc)
 Static website for Kohinoor Caterer, an Asian caterer for weddings and events in Leicester and the Midlands.
 
-### [Carbon](https://github.com/favasMuhammed/carbon)
-Code snippet sharing app built with Next.js, React and TypeScript.
-
 [View All Projects](https://favas.dev)
 
 ## Leadership & Community
