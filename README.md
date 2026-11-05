@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.favas.dev/github/header/dark">
-  <img src="https://www.favas.dev/github/header/light" alt="Muhammed Favas, backend engineer in Dubai, with the time in Dubai" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Muhammed Favas, backend engineer in Dubai" width="100%">
 </picture>
 
 I build the server side of payments and connected devices. With Muhammed Roshan M, I co-founded Nayrix, a small studio, where we're building VYNA, an AI receptionist for WhatsApp.
@@ -68,5 +68,3 @@ The full record, with what each project led to, is at [favas.dev](https://www.fa
 | Infrastructure | Docker, AWS, GitHub Actions |
 
 On the side I run a small lab that re-tests published claims about quantum compilers: [heyfavas-cell](https://github.com/heyfavas-cell).
-
-<sub>The header is drawn by [favas.dev](https://www.favas.dev) when you open this page: the time in Dubai on a ring of 24 lobes, today's daylight between the rings, and a shadow on the name cast by the sun over Dubai right now.</sub>
